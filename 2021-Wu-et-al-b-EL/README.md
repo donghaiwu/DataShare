@@ -1,5 +1,5 @@
-Wu et al., under review.
+D. Wu*, X. Xu, and H. Zhang (2021) Plant input does not exert stronger control on topsoil carbon persistence than climate in alpine grasslands, Ecology Letters, in review.
 
-DataShare: Data will be uploaded soon.
+DataShare: 
 
-Iterms: Forest mortality maps at 30 meter resolution in northwestern Costa Rica in 2014-2017.
+Iterms: Data and R codes.
