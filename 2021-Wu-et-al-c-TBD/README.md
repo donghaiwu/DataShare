@@ -1,4 +1,4 @@
-Wu et al., under review.
+Wu et al., under review
 
 DataShare: Data will be uploaded soon.
 
