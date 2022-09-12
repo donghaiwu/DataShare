@@ -1,4 +1,4 @@
-Donghai Wu* et al. “Large wind farms reduce grassland productivity and carbon sequestration via atmospheric drying”
+Donghai Wu et al. “Large wind farms reduce grassland productivity and carbon sequestration via atmospheric drying”
 
 E-mail: dw623@cornell.edu
 
