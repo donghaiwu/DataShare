@@ -1,6 +1,6 @@
 Donghai Wu* et al. “Large wind farms reduce grassland productivity and carbon sequestration via atmospheric drying”
 
-e-mail: dw623@cornell.edu
+E-mail: dw623@cornell.edu
 
 DataShare: https://drive.google.com/drive/folders/1g31K_D9gMPLLiK7nZTXO3IjV0X0BF1w0?usp=sharing
 
@@ -10,6 +10,3 @@ Iterms:
 3. Time-series analysis of VPD in peak-growing-season during 2001-2018.
 
 Notes: To verify the accuracy of the results, the data analyses were independently performed by Donghai Wu (with R) and Wenfang Xu (with Matlab), respectively.
-
-
-
